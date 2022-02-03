@@ -1,0 +1,16 @@
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.csproj.AssemblyReference.cache
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.AssemblyInfoInputs.cache
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.AssemblyInfo.cs
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.exe
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.deps.json
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.runtimeconfig.json
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.runtimeconfig.dev.json
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.dll
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\ref\patika-algorithm-exercises.dll
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\bin\Debug\net5.0\patika-algorithm-exercises.pdb
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.dll
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\ref\patika-algorithm-exercises.dll
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.pdb
+C:\Users\emred\Desktop\CODING\Patika\patika-algorithm-exercises\obj\Debug\net5.0\patika-algorithm-exercises.genruntimeconfig.cache
